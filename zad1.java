@@ -10,7 +10,7 @@ public class zad1 {
             System.out.print("podaj liczbę: ");
             int i = sc.nextInt();
 
-            System.out.print("podaj Liczbę znienne-aczecinkona: ");
+            System.out.print("podaj liczbę zmienno-przecinkoną: ");
             double d = sc.nextDouble();
 
             System.out.println("Imię i nazwisko:" + name);
